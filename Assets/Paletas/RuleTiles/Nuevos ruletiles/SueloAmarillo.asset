@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
-  m_Name: SueloVerde
+  m_Name: SueloAmarillo
   m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.RuleTile
-  m_DefaultSprite: {fileID: 5089346396019611239, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
+  m_DefaultSprite: {fileID: -1791359703, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
   m_DefaultGameObject: {fileID: 0}
   m_DefaultColliderType: 1
   m_TilingRules:
   - m_Id: 0
     m_Sprites:
-    - {fileID: -9217055240987140704, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
+    - {fileID: -240302640, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
@@ -36,7 +36,7 @@ MonoBehaviour:
     m_RuleTransform: 4
   - m_Id: 6
     m_Sprites:
-    - {fileID: 1824272673, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
+    - {fileID: -1895343671, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
@@ -53,7 +53,7 @@ MonoBehaviour:
     m_RuleTransform: 2
   - m_Id: 2
     m_Sprites:
-    - {fileID: -496409537, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
+    - {fileID: -963926066, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
@@ -69,9 +69,9 @@ MonoBehaviour:
     m_RuleTransform: 4
   - m_Id: 4
     m_Sprites:
-    - {fileID: 698810637, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
-    - {fileID: -47610049, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
-    - {fileID: -1787430090, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
+    - {fileID: 641137804, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
+    - {fileID: 1971132350, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
+    - {fileID: -387759188, guid: 8db90522e04e0394591f5d017e5fc7b8, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
